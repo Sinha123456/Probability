@@ -17,4 +17,19 @@ Inferential Statistics is about using our collected data to draw conclusions to 
     the variance of the sampling distribution is equal to the variance of the original data divided by the sample size used.
     This is always true for the variance of a sample mean!
     
+    Two important mathematical theorems for working with sampling distributions include:
+
+    Law of Large Numbers
+    Central Limit Theorem
+    
+The Law of Large Numbers says that as our sample size increases, the sample mean gets closer to the population mean,
+but how did we determine that the sample mean would estimate a population mean in the first place? How would we identify 
+another relationship between parameter and statistic like this in the future?
+
+There are three most common ways are with the following estimation techniques:
+ Maximum liklihood estimation: https://en.wikipedia.org/wiki/Maximum_likelihood_estimation
+ 
+ Method of Moments Estimation: https://en.wikipedia.org/wiki/Method_of_moments 
+ 
+ Bays Estimation: https://en.wikipedia.org/wiki/Bayes_estimator
     
