@@ -20,6 +20,6 @@ Inferential Statistics is about using our collected data to draw conclusions to 
     In notation, we say if we have a random variable, 
     X, with variance of 
    '''python
-   print('sigma: \u03C3*2)
+   print('sigma: \u03C3)
    '''
     σ2\bold{\sigma^2}σ2, then the distribution of X¯\bold{\bar{X}}X¯ (the sampling distribution of the sample mean) has a variance of σ2n\bold{\frac{\sigma^2}{n}}nσ2​
