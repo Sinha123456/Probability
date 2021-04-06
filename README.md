@@ -17,9 +17,4 @@ Inferential Statistics is about using our collected data to draw conclusions to 
     the variance of the sampling distribution is equal to the variance of the original data divided by the sample size used.
     This is always true for the variance of a sample mean!
     
-    In notation, we say if we have a random variable, 
-    X, with variance of 
-   '''python
-   print('sigma: \u03C3)
-   '''
-    σ2\bold{\sigma^2}σ2, then the distribution of X¯\bold{\bar{X}}X¯ (the sampling distribution of the sample mean) has a variance of σ2n\bold{\frac{\sigma^2}{n}}nσ2​
+    
