@@ -32,4 +32,7 @@ There are three most common ways are with the following estimation techniques:
  Method of Moments Estimation: https://en.wikipedia.org/wiki/Method_of_moments 
  
  Bays Estimation: https://en.wikipedia.org/wiki/Bayes_estimator
+ 
+ Central Limit Theorem: Central Limit Theorem states that with a large enough sample size the sampling distribution of the mean will be normally distributed. 
     
+Bootstrapping is sampling with replacement. Using random.choice in python actually samples in this way. 
