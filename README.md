@@ -36,3 +36,7 @@ There are three most common ways are with the following estimation techniques:
  Central Limit Theorem: Central Limit Theorem states that with a large enough sample size the sampling distribution of the mean will be normally distributed. 
     
 Bootstrapping is sampling with replacement. Using random.choice in python actually samples in this way. 
+
+You can interpret your confidence interval as We are 95% confident, the population mean falls between the bounds that you find.
+Notice that the percent and the parameter can both change depending on what you are building your confidence interval for,
+and what percentage you cutoff in each tail.
