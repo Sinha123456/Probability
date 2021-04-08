@@ -40,3 +40,19 @@ Bootstrapping is sampling with replacement. Using random.choice in python actual
 You can interpret your confidence interval as We are 95% confident, the population mean falls between the bounds that you find.
 Notice that the percent and the parameter can both change depending on what you are building your confidence interval for,
 and what percentage you cutoff in each tail.
+
+## P-Value:
+
+The p-value is the probability of getting our statistic or a more extreme value if the null is true.
+Therefore, small p-values suggest our null is not true. Rather, our statistic is likely to have come from a different distribution than the null.
+When the p-value is large, we have evidence that our statistic was likely to come from the null hypothesis. Therefore, we do not have evidence to reject the null.
+By comparing our p-value to our type I error threshold (α\alphaα), we can make our decision about which hypothesis we will choose.
+
+pval ≤ α ⇒ reject H0
+
+pval > α ⇒ Fail to reject H0
+
+Type 1 Error: Deciding the alternative is true but really the null is true. It is worst type error.
+
+Type 2 Error: Deciding the null is true, but really the alternative is true.
+
