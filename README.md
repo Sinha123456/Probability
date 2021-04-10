@@ -56,3 +56,9 @@ Type 1 Error: Deciding the alternative is true but really the null is true. It i
 
 Type 2 Error: Deciding the null is true, but really the alternative is true.
 
+## License & copyright
+Sinha123456
+
+Licensed under the [MIT License](License)
+
+
